@@ -6,7 +6,7 @@ if(adicionandoAmigosNaLista.trim() !== "") {
     listaDeAmigos.push(adicionandoAmigosNaLista);
     document.getElementById("amigo").value = "";
 
-    atualizarListaNaTela();
+    atualizarListaNaTela(); çdksçdksç
 
 } else {
     alert("Por favor, insira um nome"); }
