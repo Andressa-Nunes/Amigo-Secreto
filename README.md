@@ -58,4 +58,4 @@ https://github.com/Andressa-Nunes/Amigo-Secreto.git
 
 
 <a href= "https://instagram.com/andressa_2702"> ![Logo do Instagram](https://github.com/user-attachments/assets/28178dad-8b6b-4a14-97a6-0c9fdfa58843)</a>
-<a href ="https://www.linkedin.com/in/andressa nunes"> ![Logo do linkedin](https://github.com/user-attachments/assets/0e4b3306-bdf7-4b93-9b96-32b248931456)</a>
+<a href ="https://www.linkedin.com/in/andressa-nunes/si"> ![Logo do linkedin](https://github.com/user-attachments/assets/0e4b3306-bdf7-4b93-9b96-32b248931456)</a>
