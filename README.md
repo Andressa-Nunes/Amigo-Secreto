@@ -1,6 +1,6 @@
 # Amigo Secreto 
           
-![Imagem da Tela inicial do jogo](https://github.com/user-attachments/assets/3aef4efd-d6aa-4352-ba54-212bebc9dd7b)
+![Tela Inicial do Jogo](https://github.com/user-attachments/assets/5b2be026-2aa5-4581-b5d6-6d0db0ffc64e)
 
 ## Descrição do Projeto
 Este projeto foi desenvolvido com uma interface interativa para que o usuário possa adicionar nomes de amigos ao realizar o clique em um botão, 
@@ -21,12 +21,13 @@ O objetivo desse projeto é proporcionar ao usuário um momento mais dinâmico e
 
 ✔ Após o clique do botão de sortear, a array não fica mais visível na tela apenas o nome sorteado
 
-
 ---
+
 ## Aplicação
-[Demonstração do Jogo](https://github.com/user-attachments/assets/2b6a3c3e-c0c3-4feb-8955-7599a8ac6946)
+[Demonstração do Jogo](https://github.com/user-attachments/assets/a05ba6fe-5ae1-4ed5-8222-4fa1d1322e91)
 
 ---
+
 ## Tecnologias Utilizadas
 <img align = "center" height = 30em whidt = 15em gap:6px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> HTML: Linguagem de Marcação
           
@@ -57,5 +58,6 @@ https://github.com/Andressa-Nunes/Amigo-Secreto.git
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/196395690?v=4" width=115><br><sub>Andressa Nunes Silva</sub>](https://github.com/andressa-Nunes) 
 
 
-<a href= "https://instagram.com/andressa_2702"> ![Logo do Instagram](https://github.com/user-attachments/assets/28178dad-8b6b-4a14-97a6-0c9fdfa58843)</a>
-<a href ="https://www.linkedin.com/in/andressa-nunes/si"> ![Logo do linkedin](https://github.com/user-attachments/assets/0e4b3306-bdf7-4b93-9b96-32b248931456)</a>
+<a href= "https://instagram.com/andressa_2702">![Logo do instagram](https://github.com/user-attachments/assets/c5c9b2fe-8d16-4c1c-a407-4e4b4e30320b)</a>
+<a href ="https://www.linkedin.com/in/andressa-nunes/si">![Logo do linkedin](https://github.com/user-attachments/assets/2c48480b-f007-4828-84f5-df0a4e4dd100)</a>
+
